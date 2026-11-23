@@ -10,24 +10,24 @@ The Jupyter notebook is the full report — code, charts and written interpretat
 
 **Repository:** https://github.com/Jp-Rsb/SDA_Group1_Team4
 
-## 📊 Dataset
+##  Dataset
 - **Source:** [AI Impact on Students](https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students) (Kaggle, author *laveshjadon*)
 - **Size:** 50,000 rows × 16 columns · **License:** CC0 (Public Domain)
 - **File in this repo:** `ai_student_impact_dataset.csv`
 
-## 🧪 Methods applied
+## Methods applied
 - Descriptive statistics, probability & distributions (normality, Q–Q, empirical rule)
 - Exploratory Data Analysis (correlation heatmap, boxplots, scatter/regression plots)
 - Hypothesis testing & confidence intervals (paired *t*, Welch *t* + Cohen's *d*, one-way ANOVA, chi-square)
 - Linear regression & correlation (simple and multiple OLS, residual diagnostics)
 
-## 🔑 Key findings
+## Key findings
 1. Traditional study hours are the strongest behavioural driver of GPA improvement (r ≈ 0.38).
 2. *Quality beats quantity* — advanced prompt-engineers improve most (ANOVA, p ≈ 0).
 3. Heavy AI use tracks dependency (r ≈ 0.66) and burnout.
 4. A statistically significant paid-vs-free gap is practically negligible (Cohen's d ≈ 0.03) — *significant ≠ important*.
 
-## 📁 Repository contents
+## Repository contents
 | File | Description |
 |------|-------------|
 | `AI_Impact_on_Students_Statistics_Project.ipynb` | Main notebook (the report) |
@@ -45,7 +45,7 @@ pip install pandas numpy matplotlib seaborn scipy statsmodels jupyter
 jupyter notebook AI_Impact_on_Students_Statistics_Project.ipynb
 ```
 
-## 👥 Team & responsibilities
+## Team & responsibilities
 | Member | Section |
 |--------|---------|
 | [Juan Pablo García](https://github.com/Jp-Rsb) | Introduction, problem definition, data loading & cleaning | 
