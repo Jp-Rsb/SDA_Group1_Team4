@@ -52,8 +52,8 @@ jupyter notebook AI_Impact_on_Students_Statistics_Project.ipynb
 |--------|---------|
 | [Juan Pablo García](https://github.com/Jp-Rsb) | Import, general information & cleaning |
 | Doaa | Descriptive statistics, distribution & probability |
-| Ana | Exploratory data analysis (charts) |
-| Zaid | Hypothesis testing |
+| [Ana Rodriguez](https://github.com/anitar1412) | Exploratory data analysis (charts) |
+| [Zaid](https://github.com/zaiddely) | Hypothesis testing |
 | Ikram | Machine learning & conclusions |
 
 ---
